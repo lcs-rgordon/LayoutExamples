@@ -11,7 +11,7 @@ import SwiftUI
 struct LayoutExamplesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SpacerExample()
         }
     }
 }
